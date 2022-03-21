@@ -1,8 +1,10 @@
 function App() {
   return (
-    <h1 className="text-3xl font-bold underline">
-      Olá
-    </h1>
+    <div className="bg-[#0D192B] h-screen">
+      <div className="dg-[#14253D] w-64 h-64">
+        <h1>oi</h1>
+      </div>
+    </div>
   );
 }
 
